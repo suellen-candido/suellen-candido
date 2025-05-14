@@ -89,13 +89,6 @@ Procurando evoluir
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=suellen-candido&layout=compact&font=Iosevka&langs_count=16&theme=moltack"
   />
   <br>
-  <br>
-  <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suellen-candido&theme=moltack"
-  />
-  <br>
   </div>
 
 </p>
