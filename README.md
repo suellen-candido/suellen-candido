@@ -13,7 +13,7 @@
 
 💻| Always trying to understand more about Python, Java, and Artificial Intelligence
 
-🖥️| I'm an undergraduate research student, focused on AI
+✨| I'm an undergraduate research student, focused on AI
 
 ## ☕ &nbsp;Tech Stack
 
