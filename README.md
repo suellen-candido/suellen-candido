@@ -9,13 +9,13 @@
 
 ---
 
-📖| I'm an undergraduate student in Systems Analysis and Development at UFC
+👩🏻‍💻| I'm an undergraduate student in Systems Analysis and Development at UFC
 
 💻| Always trying to understand more about Python, Java, and Artificial Intelligence
 
-🖥️| I'm an undergraduate research student, focused on Artificial Intelligence
+🖥️| I'm an undergraduate research student, focused on AI
 
-## 🛠 &nbsp;Tech Stack
+## ☕ &nbsp;Tech Stack
 
 #### 🔧| Languages
 
