@@ -9,9 +9,9 @@
 
 ---
 
-👩🏻‍💻| I'm a Backend Developer and an undergraduate student in Systems Analysis and Development (ADS) at the Federal University of Ceará (UFC)
+👩🏻‍💻| I'm a Backend Developer and an undergraduate student in Systems Analysis and Development at the Federal University of Ceará
 
-💻| Currently focused on backend development with Python and Java, and applying AI concepts in academic research projects.
+💻| Currently focused on backend development with Python and Java, and applying AI concepts in academic research projects
 
 ✨| Undergraduate research student in Artificial Intelligence, working with data analysis and machine learning fundamentals
 
