@@ -9,11 +9,11 @@
 
 ---
 
-👩🏻‍💻| I'm an undergraduate student in Systems Analysis and Development at UFC
+👩🏻‍💻| I'm a Backend Developer and an undergraduate student in Systems Analysis and Development (ADS) at the Federal University of Ceará (UFC)
 
-💻| Always trying to understand more about Python, Java, and Artificial Intelligence
+💻| Currently focused on backend development with Python and Java, and applying AI concepts in academic research projects.
 
-✨| I'm an undergraduate research student, focused on AI
+✨| Undergraduate research student in Artificial Intelligence, working with data analysis and machine learning fundamentals
 
 ## ☕ &nbsp;Tech Stack
 
